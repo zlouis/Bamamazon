@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon-front like store that uses Mysql and Node.js",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlouis/Bamamazon.git"
+  },
+  "author": "Louis Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zlouis/Bamamazon/issues"
+  },
+  "homepage": "https://github.com/zlouis/Bamamazon#readme",
+  "dependencies": {
+    "inquirer": "^1.2.2",
+    "mysql": "^2.11.1"
+  }
+}
