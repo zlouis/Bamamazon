@@ -5,4 +5,5 @@ Technologies used:
 -MySQL
 -Node.js
 
-Bamazon
+###BamazonCustomer.js
+![alt-text](https://github.com/zlouis/Bamamazon/blob/master/assets/images/customerpurchase.jpg)
