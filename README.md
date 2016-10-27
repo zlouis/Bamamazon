@@ -6,4 +6,5 @@ Technologies used:
 -Node.js
 
 ###BamazonCustomer.js
-![alt-text](https://github.com/zlouis/Bamamazon/blob/master/assets/images/customerpurchase.jpg)
+![alt text][logo]
+[logo]: https://github.com/zlouis/Bamamazon/blob/master/assets/images/customerpurchase.jpg
