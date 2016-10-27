@@ -12,6 +12,8 @@ Technologies used:
 ###BamazonManager.js
 ![alt text][logo]
 [logo]: https://github.com/zlouis/Bamamazon/blob/master/assets/images/managermenu.jpg
+
+![alt text]
 Low Inventory
 [logo]: https://github.com/zlouis/Bamamazon/blob/master/assets/images/managerlowinventory.jpg
 Add product
